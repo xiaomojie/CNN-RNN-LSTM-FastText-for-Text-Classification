@@ -5,8 +5,8 @@
 
 1. CNN：基于CNN的文本分类实验
 2. RNN：使用rnn和lstm进行文本分类
-3. fast_text: 使用fast text模型进行分类实验
-4. word_char_cnn: 将基于word和基于character的cnn进行结合
+3. FastText: 使用fast text模型进行分类实验
+4. WordCharCNN: 将基于word和基于character的cnn进行结合
 5. cnn_rnn_model.py：将cnn和rnn进行结合
 6. 将tensorflow训练出来的模型转化成java可调用的版本，进行上线
 
